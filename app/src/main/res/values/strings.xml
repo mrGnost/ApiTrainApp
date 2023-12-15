@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiTrainApp</string>
+    <string name="add_dog">Добавить собаку</string>
+</resources>
